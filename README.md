@@ -16,8 +16,8 @@ branch. Pull requests are warmly welcome.
 
 ## Technologies used
 
-Back-end: Java
-Database: Postgres
+* Back-end: Java
+* Database: Postgres
 
 ## Licensing
 
