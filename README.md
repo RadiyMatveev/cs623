@@ -12,7 +12,7 @@ branch. Pull requests are warmly welcome.
 
 ## Links
 
-- Repository: https://github.com/RadiyMatveev/cs623
+Repository: https://github.com/RadiyMatveev/cs623
 
 ## Technologies used
 
